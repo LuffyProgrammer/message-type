@@ -26,4 +26,4 @@ ls
 pip3 install -r requirements.txt
 
 
-python3 messageType by: @Ruffy.py
+python3 'messageType by: @Ruffy.py'
